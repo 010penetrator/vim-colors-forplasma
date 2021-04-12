@@ -14,10 +14,10 @@ Originally by Aleksandar Radunovic
 ### Installation
 Place `colors/perun.vim` in your `<vim-config-dir>/colors/` directory.
 **NOTE:** Ensure that your terminal emulator supports true color. - [More info](https://github.com/neovim/neovim/wiki/FAQ#how-can-i-use-true-color-in-the-terminal)
-## Terminal colors
+### Terminal colors
 Take a look inside [`terminal`](https://github.com/aradunovic/perun.vim/tree/master/terminal) directory.
 
-### knicks-away.vim
+## knicks-away.vim
 New York Knicks jersey color schemes
 Originally by Russell Bradley
 
