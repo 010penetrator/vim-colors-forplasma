@@ -1,5 +1,10 @@
 # vim-colors-forplasma
-A collection of Vim color schemes, whose original repositories have become unavailable.
+A few Vim color schemes, probably not available anywhere else
+
+## lightline/PaperColor_plasm.vim
+Vim/lightline color scheme in oceanic palette
+Originally by TKNGUE 
+Some edits by plasmik
 
 ## tayra.vim
 Vim color scheme
