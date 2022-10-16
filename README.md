@@ -1,6 +1,11 @@
 # vim-colors-forplasma
 A few Vim color schemes, probably not available anywhere else
 
+## stellarized
+## rusticated
+## snow
+originally from https://github.com/haystackandroid/
+
 ## lightline/PaperColor_plasm.vim
 Vim/lightline color scheme in oceanic palette
 Originally by TKNGUE 
