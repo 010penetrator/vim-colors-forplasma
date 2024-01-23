@@ -8,7 +8,7 @@ originally from https://github.com/haystackandroid/
 
 ## lightline/PaperColor_plasm.vim
 Vim/lightline color scheme in oceanic palette
-Originally by TKNGUE 
+Originally by TKNGUE
 Some edits by plasmik
 
 ## tayra.vim
@@ -26,6 +26,11 @@ Place `colors/perun.vim` in your `<vim-config-dir>/colors/` directory.
 **NOTE:** Ensure that your terminal emulator supports true color. - [More info](https://github.com/neovim/neovim/wiki/FAQ#how-can-i-use-true-color-in-the-terminal)
 ### Terminal colors
 Take a look inside [`terminal`](https://github.com/aradunovic/perun.vim/tree/master/terminal) directory.
+
+## moody
+## messy
+## garden
+Originally by Jak Wings @ J.W @ https://jakwings.github.io/AMA/
 
 ## knicks-away.vim
 New York Knicks jersey color schemes
