@@ -27,10 +27,12 @@ Place `colors/perun.vim` in your `<vim-config-dir>/colors/` directory.
 ### Terminal colors
 Take a look inside [`terminal`](https://github.com/aradunovic/perun.vim/tree/master/terminal) directory.
 
-## moody
-## messy
-## garden
+## moody, messy, garden
+### Moody: walking along the woodland stream
+### Garden: apples, leaves, vines in the white garden
+### Messy: 16 colors inherited from YOUR terminal settings
 Originally by Jak Wings @ J.W @ https://jakwings.github.io/AMA/
+All color schemes here support 256-color terminals.
 
 ## knicks-away.vim
 New York Knicks jersey color schemes
